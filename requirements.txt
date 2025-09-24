@@ -1,0 +1,15 @@
+langchain-google-genai>=2.0.0
+langchain-core>=0.3.0
+langchain
+python-dotenv>=1.0.0
+pillow>=10.0.0
+pydantic>=2.0.0
+absl-py==2.3.1
+
+# Avoid annoying absl errors:
+grpcio==1.67.1
+grpcio-status==1.67.1
+
+langgraph
+langfuse
+langfuselangchain
